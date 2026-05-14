@@ -15,17 +15,17 @@ let package = Package(
     .binaryTarget(
       name: "Tagged",
       url: "\(artifactBaseURL)/Tagged.xcframework.zip",
-      checksum: "9ed91471b0954c4818548d16ff8ee36940c440de617540450319f683943dbbc5"
+      checksum: "db28147dcc916d3cecb67d36a6477e314c2f3f3b8055f3572df2935dde235069"
     ),
     .binaryTarget(
       name: "TaggedMoney",
       url: "\(artifactBaseURL)/TaggedMoney.xcframework.zip",
-      checksum: "011bb0bb50ad752315af45273ed7f95be927c8d012382da4a519fc3fe72834dc"
+      checksum: "cfc2325dcc027d8306f16e1df64037197cde34b43299295e4b1896e5a315fe6d"
     ),
     .binaryTarget(
       name: "TaggedTime",
       url: "\(artifactBaseURL)/TaggedTime.xcframework.zip",
-      checksum: "a2e84e4d0227469e282924e2125092f537c7974ee494bd2f87b3bf95cbf075a3"
+      checksum: "f2161fe2c07036e09b4f5f48ecbc4441d34ac4bb862f555f9e1b7d217277a9ac"
     ),
   ]
 )
